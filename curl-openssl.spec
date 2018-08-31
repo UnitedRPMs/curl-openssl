@@ -28,6 +28,7 @@ BuildRequires: openldap-devel
 #BuildRequires: openssh-server
 BuildRequires: pkgconfig
 BuildRequires: stunnel
+BuildRequires: gcc-c++
 
 BuildRequires: zlib-devel
 Requires: libcurl-openssl = %{version}-%{release}
