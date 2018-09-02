@@ -9,7 +9,7 @@
 Summary: A utility for getting files from remote servers (FTP, HTTP, and others)
 Name: curl-openssl
 Version: 7.43.0
-Release: 2%{?dist}
+Release: 3%{?dist}
 License: MIT
 Group: Applications/Internet
 Source: http://curl.haxx.se/download/curl-%{version}.tar.bz2
@@ -148,6 +148,9 @@ rm -rf $RPM_BUILD_ROOT
 %{_datadir}/aclocal/libcurl.m4
 
 %changelog
+
+* Sun Sep 02 2017 Unitedrpms Project <unitedrpms AT protonmail DOT com> 7.43.0-3
+- Rebuilt
 
 * Tue Oct 24 2017 Unitedrpms Project <unitedrpms AT protonmail DOT com> 7.43.0-2
 - Upstream 
