@@ -149,7 +149,7 @@ rm -rf $RPM_BUILD_ROOT
 
 %changelog
 
-* Sun Sep 02 2017 Unitedrpms Project <unitedrpms AT protonmail DOT com> 7.43.0-3
+* Sun Sep 02 2018 Unitedrpms Project <unitedrpms AT protonmail DOT com> 7.43.0-3
 - Rebuilt
 
 * Tue Oct 24 2017 Unitedrpms Project <unitedrpms AT protonmail DOT com> 7.43.0-2
