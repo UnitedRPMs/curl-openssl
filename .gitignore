@@ -5,3 +5,4 @@ SPECS/*
 SRPMS/*
 curl*.tar.bz2
 .directory
+*.rpm
